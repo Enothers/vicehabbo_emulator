@@ -1,0 +1,683 @@
+00:53:30.526 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+00:53:30.529 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+01:07:14.000 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+01:07:14.000 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+04:38:09.809 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+04:38:09.810 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+08:45:49.623 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+08:45:49.623 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+08:46:01.181 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.181 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.181 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.181 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.181 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.182 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.182 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.583 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.583 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:01.583 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.083 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.083 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.083 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.187 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.187 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.187 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.583 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.583 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:02.583 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:46:16.098 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+08:46:16.099 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+08:52:32.332 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.332 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.333 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.333 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.333 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.333 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.333 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.333 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.341 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.341 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.341 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.841 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.841 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+08:52:32.841 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.272 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.272 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.272 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.272 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.273 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.273 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.273 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.558 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.558 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:48.558 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:49.058 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:49.058 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:49.058 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:49.558 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:49.558 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:49.558 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:50.058 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:50.058 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:50.058 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:50.558 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:50.558 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:12:50.558 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:31:46.800 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:31:46.800 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:31:46.800 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:31:47.058 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:31:47.058 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:31:47.058 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:32:40.281 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:32:40.281 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:35:28.694 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:28.695 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:28.695 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:28.695 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:29.058 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:29.058 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:29.064 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:29.558 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:29.558 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:29.558 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:36.999 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:35:36.999 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:41.887 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:36:41.888 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:36:54.126 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.126 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.127 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.127 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.127 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.127 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.127 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.374 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.375 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.375 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.874 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.875 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:54.875 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:55.374 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:55.375 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:55.375 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:55.874 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:55.875 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:55.875 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:56.374 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:56.375 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:36:56.375 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:37:01.434 [HabExec-1-4] ERROR com.eu.habbo.core.TextsManager - Text key not found: commands.description.cmd_event
+09:37:01.434 [HabExec-1-4] ERROR com.eu.habbo.core.TextsManager - Text key not found: commands.description.cmd_leaderboard
+09:37:01.434 [HabExec-1-4] ERROR com.eu.habbo.core.TextsManager - Text key not found: commands.description.cmd_softkick
+09:37:01.434 [HabExec-1-4] ERROR com.eu.habbo.core.TextsManager - Text key not found: commands.description.cmd_subscription
+09:37:01.435 [HabExec-1-4] ERROR com.eu.habbo.habbohotel.commands.CommandHandler - Caught exception
+java.io.FileNotFoundException: C:/inetpub/wwwroot/swf/gamedata/habbopages/commands_8.txt (No such file or directory)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:123)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:66)
+	at com.laynester.plugins.habbopages.utils.Page.createFile(Page.java:44)
+	at com.laynester.plugins.habbopages.utils.Page.<init>(Page.java:30)
+	at com.laynester.plugins.habbopages.commands.Commands.handle(Commands.java:45)
+	at com.eu.habbo.habbohotel.commands.CommandHandler.handleCommand(CommandHandler.java:88)
+	at com.eu.habbo.habbohotel.rooms.Room.talk(Room.java:3172)
+	at com.eu.habbo.habbohotel.rooms.Room.talk(Room.java:3099)
+	at com.eu.habbo.messages.incoming.rooms.users.RoomUserTalkEvent.handle(RoomUserTalkEvent.java:33)
+	at com.eu.habbo.messages.PacketManager.handlePacket(PacketManager.java:213)
+	at com.eu.habbo.threading.runnables.ChannelReadHandler.run(ChannelReadHandler.java:24)
+	at com.eu.habbo.threading.ThreadPooling.lambda$run$0(ThreadPooling.java:48)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+09:38:05.608 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:05.608 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:05.608 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:05.608 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:05.874 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:05.875 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:05.875 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:06.374 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:06.375 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:38:06.375 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:42.510 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:53:42.510 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:53:46.288 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.288 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.289 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.289 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.289 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.289 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.554 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.554 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:46.555 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:47.054 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:47.054 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:47.055 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:47.554 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:47.554 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:47.555 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:48.054 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:48.055 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:53:48.055 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+09:54:54.182 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+09:54:54.182 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:00:04.529 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:00:04.530 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:00:08.286 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.287 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.313 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.313 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.313 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.813 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.813 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:08.814 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:09.313 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:09.313 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:09.313 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:09.813 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:09.813 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:09.814 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:10.313 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:10.313 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:10.314 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:10.813 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:10.813 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:10.813 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:11.313 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:11.313 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:00:11.313 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.135 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.491 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.492 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.492 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.991 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.992 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:20.992 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:21.491 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:21.492 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:21.492 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:21.991 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:21.992 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:21.992 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:22.491 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:22.492 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:22.492 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:22.991 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:22.992 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:01:22.992 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:09.933 [main] ERROR com.eu.habbo.habbohotel.items.ItemManager - Failed to load Item (56561623)
+10:07:09.935 [main] ERROR com.eu.habbo.habbohotel.items.ItemManager - Caught exception
+java.lang.NumberFormatException: For input string: "1094.1089.1088.1073"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.valueOf(Integer.java:999)
+	at com.eu.habbo.habbohotel.items.Item.load(Item.java:106)
+	at com.eu.habbo.habbohotel.items.Item.<init>(Item.java:44)
+	at com.eu.habbo.habbohotel.items.ItemManager.loadItems(ItemManager.java:391)
+	at com.eu.habbo.habbohotel.items.ItemManager.load(ItemManager.java:101)
+	at com.eu.habbo.habbohotel.GameEnvironment.load(GameEnvironment.java:67)
+	at com.eu.habbo.Emulator.main(Emulator.java:150)
+10:07:10.268 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEeJleVUhO1MWRJyYDWWp9Do ERROR: Requests from referer <empty> are blocked.
+10:07:10.268 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcO-1iw3P6gavJ_ALTxqNHn ERROR: Requests from referer <empty> are blocked.
+10:07:10.268 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcFzCpH2_EXtwzKQH8mJGd9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.269 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcIiSOH2x3sg2jwACNbSIm9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.271 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEet7EMwhw0ge5n2oNMr7JY8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.295 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfRxBiXwTBA7oiybPqoZD_j ERROR: Requests from referer <empty> are blocked.
+10:07:10.295 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WUo09aevZX-b47k4PD08-i8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.295 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfTW4fkX9vrt497MEvWorwK ERROR: Requests from referer <empty> are blocked.
+10:07:10.296 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4ACB18CA629E650A ERROR: Requests from referer <empty> are blocked.
+10:07:10.299 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfpHad_B7j_MulB3-cwtLFh ERROR: Requests from referer <empty> are blocked.
+10:07:10.299 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfyRBCOVKQ4qxlSoHsGDZ82 ERROR: Requests from referer <empty> are blocked.
+10:07:10.296 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcit3i1q55-IFFndmo_dsR8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.300 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfeS5t7EiEIYbpplZivDZTL ERROR: Requests from referer <empty> are blocked.
+10:07:10.301 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEdux38c8CYunT9uNh_k2NPt ERROR: Requests from referer <empty> are blocked.
+10:07:10.303 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEekJPbcVOaNYVV6VLSo9zRB ERROR: Requests from referer <empty> are blocked.
+10:07:10.314 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WXOkxFly7YsGL8cKtqp873p ERROR: Requests from referer <empty> are blocked.
+10:07:10.317 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcFzCpH2_EXtwzKQH8mJGd9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.317 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4ACB18CA629E650A ERROR: Requests from referer <empty> are blocked.
+10:07:10.323 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcIiSOH2x3sg2jwACNbSIm9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.324 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEeJleVUhO1MWRJyYDWWp9Do ERROR: Requests from referer <empty> are blocked.
+10:07:10.327 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEekJPbcVOaNYVV6VLSo9zRB ERROR: Requests from referer <empty> are blocked.
+10:07:10.327 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL80F08DAE1B614BA9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.339 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfRxBiXwTBA7oiybPqoZD_j ERROR: Requests from referer <empty> are blocked.
+10:07:10.342 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfpHad_B7j_MulB3-cwtLFh ERROR: Requests from referer <empty> are blocked.
+10:07:10.343 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfeS5t7EiEIYbpplZivDZTL ERROR: Requests from referer <empty> are blocked.
+10:07:10.347 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcit3i1q55-IFFndmo_dsR8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.348 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEdux38c8CYunT9uNh_k2NPt ERROR: Requests from referer <empty> are blocked.
+10:07:10.351 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WUo09aevZX-b47k4PD08-i8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.352 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEet7EMwhw0ge5n2oNMr7JY8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.356 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfTW4fkX9vrt497MEvWorwK ERROR: Requests from referer <empty> are blocked.
+10:07:10.357 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfyRBCOVKQ4qxlSoHsGDZ82 ERROR: Requests from referer <empty> are blocked.
+10:07:10.360 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcO-1iw3P6gavJ_ALTxqNHn ERROR: Requests from referer <empty> are blocked.
+10:07:10.360 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL80F08DAE1B614BA9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.361 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4ACB18CA629E650A ERROR: Requests from referer <empty> are blocked.
+10:07:10.364 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WXOkxFly7YsGL8cKtqp873p ERROR: Requests from referer <empty> are blocked.
+10:07:10.370 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcFzCpH2_EXtwzKQH8mJGd9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.370 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcIiSOH2x3sg2jwACNbSIm9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.378 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcit3i1q55-IFFndmo_dsR8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.379 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcO-1iw3P6gavJ_ALTxqNHn ERROR: Requests from referer <empty> are blocked.
+10:07:10.379 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEet7EMwhw0ge5n2oNMr7JY8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.380 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfpHad_B7j_MulB3-cwtLFh ERROR: Requests from referer <empty> are blocked.
+10:07:10.382 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEeJleVUhO1MWRJyYDWWp9Do ERROR: Requests from referer <empty> are blocked.
+10:07:10.382 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEdux38c8CYunT9uNh_k2NPt ERROR: Requests from referer <empty> are blocked.
+10:07:10.397 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfeS5t7EiEIYbpplZivDZTL ERROR: Requests from referer <empty> are blocked.
+10:07:10.397 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfyRBCOVKQ4qxlSoHsGDZ82 ERROR: Requests from referer <empty> are blocked.
+10:07:10.397 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WXOkxFly7YsGL8cKtqp873p ERROR: Requests from referer <empty> are blocked.
+10:07:10.400 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4ACB18CA629E650A ERROR: Requests from referer <empty> are blocked.
+10:07:10.397 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEekJPbcVOaNYVV6VLSo9zRB ERROR: Requests from referer <empty> are blocked.
+10:07:10.398 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfRxBiXwTBA7oiybPqoZD_j ERROR: Requests from referer <empty> are blocked.
+10:07:10.401 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfTW4fkX9vrt497MEvWorwK ERROR: Requests from referer <empty> are blocked.
+10:07:10.403 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WUo09aevZX-b47k4PD08-i8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.404 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL80F08DAE1B614BA9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.407 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcFzCpH2_EXtwzKQH8mJGd9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.417 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcit3i1q55-IFFndmo_dsR8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.418 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEeJleVUhO1MWRJyYDWWp9Do ERROR: Requests from referer <empty> are blocked.
+10:07:10.418 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcIiSOH2x3sg2jwACNbSIm9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.422 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEet7EMwhw0ge5n2oNMr7JY8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.423 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEekJPbcVOaNYVV6VLSo9zRB ERROR: Requests from referer <empty> are blocked.
+10:07:10.424 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEdux38c8CYunT9uNh_k2NPt ERROR: Requests from referer <empty> are blocked.
+10:07:10.425 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcO-1iw3P6gavJ_ALTxqNHn ERROR: Requests from referer <empty> are blocked.
+10:07:10.430 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfeS5t7EiEIYbpplZivDZTL ERROR: Requests from referer <empty> are blocked.
+10:07:10.432 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfRxBiXwTBA7oiybPqoZD_j ERROR: Requests from referer <empty> are blocked.
+10:07:10.437 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfyRBCOVKQ4qxlSoHsGDZ82 ERROR: Requests from referer <empty> are blocked.
+10:07:10.437 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfTW4fkX9vrt497MEvWorwK ERROR: Requests from referer <empty> are blocked.
+10:07:10.440 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfpHad_B7j_MulB3-cwtLFh ERROR: Requests from referer <empty> are blocked.
+10:07:10.440 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WXOkxFly7YsGL8cKtqp873p ERROR: Requests from referer <empty> are blocked.
+10:07:10.440 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL80F08DAE1B614BA9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.443 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WUo09aevZX-b47k4PD08-i8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.444 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcFzCpH2_EXtwzKQH8mJGd9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.449 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4ACB18CA629E650A ERROR: Requests from referer <empty> are blocked.
+10:07:10.455 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcIiSOH2x3sg2jwACNbSIm9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.457 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcit3i1q55-IFFndmo_dsR8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.461 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEdux38c8CYunT9uNh_k2NPt ERROR: Requests from referer <empty> are blocked.
+10:07:10.461 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfpHad_B7j_MulB3-cwtLFh ERROR: Requests from referer <empty> are blocked.
+10:07:10.462 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcO-1iw3P6gavJ_ALTxqNHn ERROR: Requests from referer <empty> are blocked.
+10:07:10.465 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEeJleVUhO1MWRJyYDWWp9Do ERROR: Requests from referer <empty> are blocked.
+10:07:10.465 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEet7EMwhw0ge5n2oNMr7JY8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.466 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEekJPbcVOaNYVV6VLSo9zRB ERROR: Requests from referer <empty> are blocked.
+10:07:10.467 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfRxBiXwTBA7oiybPqoZD_j ERROR: Requests from referer <empty> are blocked.
+10:07:10.470 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfeS5t7EiEIYbpplZivDZTL ERROR: Requests from referer <empty> are blocked.
+10:07:10.476 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfyRBCOVKQ4qxlSoHsGDZ82 ERROR: Requests from referer <empty> are blocked.
+10:07:10.477 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WXOkxFly7YsGL8cKtqp873p ERROR: Requests from referer <empty> are blocked.
+10:07:10.478 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL80F08DAE1B614BA9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.480 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WUo09aevZX-b47k4PD08-i8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.481 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcIiSOH2x3sg2jwACNbSIm9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.482 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfTW4fkX9vrt497MEvWorwK ERROR: Requests from referer <empty> are blocked.
+10:07:10.482 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcFzCpH2_EXtwzKQH8mJGd9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.483 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcit3i1q55-IFFndmo_dsR8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.488 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4ACB18CA629E650A ERROR: Requests from referer <empty> are blocked.
+10:07:10.492 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEeJleVUhO1MWRJyYDWWp9Do ERROR: Requests from referer <empty> are blocked.
+10:07:10.495 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEcO-1iw3P6gavJ_ALTxqNHn ERROR: Requests from referer <empty> are blocked.
+10:07:10.495 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEekJPbcVOaNYVV6VLSo9zRB ERROR: Requests from referer <empty> are blocked.
+10:07:10.497 [pool-1-thread-5] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfpHad_B7j_MulB3-cwtLFh ERROR: Requests from referer <empty> are blocked.
+10:07:10.498 [pool-1-thread-8] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfTW4fkX9vrt497MEvWorwK ERROR: Requests from referer <empty> are blocked.
+10:07:10.500 [pool-1-thread-6] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEdux38c8CYunT9uNh_k2NPt ERROR: Requests from referer <empty> are blocked.
+10:07:10.504 [pool-1-thread-7] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfyRBCOVKQ4qxlSoHsGDZ82 ERROR: Requests from referer <empty> are blocked.
+10:07:10.505 [pool-1-thread-4] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEet7EMwhw0ge5n2oNMr7JY8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.507 [pool-1-thread-3] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfRxBiXwTBA7oiybPqoZD_j ERROR: Requests from referer <empty> are blocked.
+10:07:10.511 [pool-1-thread-10] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4F5KzcUTpEfeS5t7EiEIYbpplZivDZTL ERROR: Requests from referer <empty> are blocked.
+10:07:10.513 [pool-1-thread-2] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WUo09aevZX-b47k4PD08-i8 ERROR: Requests from referer <empty> are blocked.
+10:07:10.521 [pool-1-thread-9] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL80F08DAE1B614BA9 ERROR: Requests from referer <empty> are blocked.
+10:07:10.521 [pool-1-thread-1] ERROR com.eu.habbo.habbohotel.items.YoutubeManager - Failed to load YouTube playlist PL4YfV2mXS8WXOkxFly7YsGL8cKtqp873p ERROR: Requests from referer <empty> are blocked.
+10:07:10.809 [main] ERROR com.eu.habbo.util.imager.badges.BadgeImager - BadgeImager output folder: /var/www/testhotel/Cosmic/public/usercontent/badgeparts does not exist!
+10:07:37.792 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:07:37.792 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:07:40.584 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.586 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.586 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.587 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.587 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.587 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.910 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:40.910 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.409 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.410 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.410 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.858 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.859 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.859 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.859 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.859 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:41.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:42.409 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:42.409 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:42.410 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:42.831 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:07:42.831 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:07:42.909 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:42.909 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:07:42.910 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:12.297 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:08:12.297 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:08:14.638 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.639 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.639 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.639 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.639 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.640 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.640 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.640 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:14.910 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.325 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.326 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.326 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.326 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.409 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.409 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.410 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.411 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.412 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.413 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.414 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.415 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.416 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.417 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.418 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.419 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.896 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.896 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.896 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.896 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.897 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.910 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:15.910 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.409 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.409 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.409 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.410 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.410 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.410 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.909 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.909 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.909 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.910 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.910 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:16.910 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.359 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.360 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.360 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.409 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.409 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.409 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.411 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.411 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:17.411 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.473 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.474 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.474 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.474 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.474 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:18.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.409 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.409 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.409 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.428 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.428 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.428 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.429 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.909 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.909 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:19.909 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:20.409 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:20.409 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:20.409 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:21.161 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:08:21.161 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:10:22.806 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:10:22.806 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:10:22.807 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:10:22.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:10:22.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:10:22.909 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:12:15.907 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:12:15.907 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:13:44.781 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:13:44.781 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:14:00.161 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:14:00.161 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:14:17.351 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:14:17.351 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:14:17.627 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:14:17.627 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:14:18.856 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:14:18.856 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:14:23.648 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:14:23.649 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:14:37.111 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:14:37.111 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:16:40.712 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:16:40.712 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:17:49.414 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:17:49.414 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:18:40.717 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:40.717 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:44.670 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:18:44.670 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:18:45.703 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:18:45.704 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:18:49.070 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.070 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.070 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.070 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.070 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.070 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.071 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.409 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.409 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.409 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.909 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.909 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:49.909 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:50.409 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:50.409 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:50.409 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:50.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:50.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:50.909 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:51.409 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:51.409 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:18:51.409 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:34.462 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:27:34.463 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:27:38.591 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.591 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.591 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.591 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.591 [HabExec-1-10] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.973 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.973 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:38.973 [HabExec-1-6] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:39.472 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:39.473 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:39.473 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:39.973 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:39.973 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:39.973 [HabExec-1-1] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.919 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.919 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.919 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.920 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.920 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.920 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.920 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.972 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.973 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:47.973 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:48.472 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:48.473 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:48.473 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:48.973 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:48.973 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:48.973 [HabExec-1-7] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:49.473 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:49.473 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:49.473 [HabExec-1-9] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:49.972 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:49.973 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:27:49.973 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:33:57.324 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:33:57.325 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+10:37:12.799 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.799 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.799 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.799 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.799 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.799 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.800 [HabExec-1-5] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.972 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.973 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:12.973 [HabExec-1-12] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:13.473 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:13.473 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:13.473 [HabExec-1-8] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:13.972 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:13.973 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:13.973 [HabExec-1-11] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:14.473 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:14.473 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:14.473 [HabExec-1-3] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:14.972 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:14.973 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:37:14.973 [HabExec-1-4] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found pathfinder.execution_time.milli
+10:38:36.482 [main] ERROR com.eu.habbo.Emulator - Error while reading command
+java.io.IOException: Input/output error
+	at java.base/java.io.FileInputStream.readBytes(Native Method)
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:276)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:282)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:343)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:287)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:330)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:190)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:177)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:162)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:329)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:396)
+	at com.eu.habbo.Emulator.main(Emulator.java:189)
